@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"title": "Create task manager project.",
+		"description": "Create a new project using Express",
+		"completed": false
+	},
+	{
+		"id": 2,
+		"title": "Create a new project",
+		"description": "Create a new project using Magic",
+		"completed": false
+	}
+]
